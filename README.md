@@ -10,8 +10,9 @@ A minimal, local-first web app for practicing rapid learning, information synthe
 
 ### What it does
 
-- Selects a random bilingual learning topic from **1,026 English–Chinese prompts** across 9 categories
-- Uses an animated dice-style topic roller for fast random selection
+- Selects a random learning topic from **1,554 English–Chinese prompts** across 10 categories
+- Offers separate English and Chinese interface modes
+- Uses an animated text roller for fast random selection
 - Runs an accurate 10-minute research countdown using timestamps
 - Supports pausing, resuming, and ending research early
 - Runs a 1-minute speaking countdown
@@ -30,7 +31,7 @@ A minimal, local-first web app for practicing rapid learning, information synthe
 
 ### Categories
 
-Computer Science, Technology, Business, Finance, Economics, Psychology, Science, Philosophy, and History.
+Computer Science, Technology, Business, Finance, Economics, Psychology, Science, Philosophy, Sociology, and History.
 
 ### Run locally
 
@@ -66,8 +67,9 @@ All challenge progress, reflections, and history remain in the browser's local s
 
 ### 主要功能
 
-- 从 9 个分类的 **1,026 个中英双语选题**中随机抽取题目
-- 使用带滚动动画的骰子式随机选题界面
+- 从 10 个分类的 **1,554 个中英双语选题**中随机抽取题目
+- 提供独立的中文界面与英文界面
+- 使用纯文字滚动动画进行随机选题
 - 使用时间戳实现准确的 10 分钟研究倒计时
 - 支持暂停、继续和提前结束研究
 - 提供 1 分钟口头讲述倒计时
@@ -86,7 +88,7 @@ All challenge progress, reflections, and history remain in the browser's local s
 
 ### 选题分类
 
-计算机科学、科技、商业、金融、经济学、心理学、科学、哲学和历史。
+计算机科学、科技、商业、金融、经济学、心理学、科学、哲学、社会学和历史。
 
 ### 本地运行
 
