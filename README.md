@@ -13,6 +13,7 @@ A minimal, local-first web app for practicing rapid learning, information synthe
 - Selects a random learning topic from **1,554 English–Chinese prompts** across 10 categories
 - Offers separate English and Chinese interface modes
 - Uses an animated text roller for fast random selection
+- Lets users add and delete their own bilingual topics, stored locally in the browser
 - Runs an accurate 10-minute research countdown using timestamps
 - Supports pausing, resuming, and ending research early
 - Runs a 1-minute speaking countdown
@@ -70,6 +71,7 @@ All challenge progress, reflections, and history remain in the browser's local s
 - 从 10 个分类的 **1,554 个中英双语选题**中随机抽取题目
 - 提供独立的中文界面与英文界面
 - 使用纯文字滚动动画进行随机选题
+- 用户可以添加或删除自己的中英双语题目，数据保存在浏览器本地
 - 使用时间戳实现准确的 10 分钟研究倒计时
 - 支持暂停、继续和提前结束研究
 - 提供 1 分钟口头讲述倒计时
