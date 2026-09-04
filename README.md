@@ -10,7 +10,8 @@ A minimal, local-first web app for practicing rapid learning, information synthe
 
 ### What it does
 
-- Selects a random learning topic from **1,026 prompts** across 9 categories
+- Selects a random bilingual learning topic from **1,026 English–Chinese prompts** across 9 categories
+- Uses an animated dice-style topic roller for fast random selection
 - Runs an accurate 10-minute research countdown using timestamps
 - Supports pausing, resuming, and ending research early
 - Runs a 1-minute speaking countdown
@@ -65,7 +66,8 @@ All challenge progress, reflections, and history remain in the browser's local s
 
 ### 主要功能
 
-- 从 9 个分类的 **1,026 个选题**中随机抽取题目
+- 从 9 个分类的 **1,026 个中英双语选题**中随机抽取题目
+- 使用带滚动动画的骰子式随机选题界面
 - 使用时间戳实现准确的 10 分钟研究倒计时
 - 支持暂停、继续和提前结束研究
 - 提供 1 分钟口头讲述倒计时
